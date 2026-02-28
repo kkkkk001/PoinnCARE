@@ -1,0 +1,5 @@
+log.txt
+logs/*
+taiji_scripts/*
+*__pycache__*
+data/
