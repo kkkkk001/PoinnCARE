@@ -11,7 +11,7 @@ conda create --name poinncare -c conda-forge -c pytorch -c nvidia --file require
 conda activate poinncare
 ```
 
-Download the dataset from [Zenodo](https://zenodo.org/records/18813316?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjYzNTg1OWQyLTY2MTEtNGIyMy05ZTI2LTI1NzA1NmY0NzE4YSIsImRhdGEiOnt9LCJyYW5kb20iOiJlNTU2MWU1Y2UxM2IyNjJiNGIxMmU1NDNjYzAxZWQ1YSJ9.m8mJjfhwVC6CgJTJ4LxNZI46woAWq5AgVwLLD98xkiYxqvme2iu4_5yscB-0CKm3fzlBXv4jMUtRVykAwrI3Vw) place it in the `data/` directory.
+Download the dataset from [Zenodo](https://zenodo.org/records/18813316?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjYzNTg1OWQyLTY2MTEtNGIyMy05ZTI2LTI1NzA1NmY0NzE4YSIsImRhdGEiOnt9LCJyYW5kb20iOiJlNTU2MWU1Y2UxM2IyNjJiNGIxMmU1NDNjYzAxZWQ1YSJ9.m8mJjfhwVC6CgJTJ4LxNZI46woAWq5AgVwLLD98xkiYxqvme2iu4_5yscB-0CKm3fzlBXv4jMUtRVykAwrI3Vw) and place it in the `data/` directory.
 
 Then run the following command to predict the EC number:
 
